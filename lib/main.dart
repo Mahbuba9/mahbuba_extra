@@ -11,9 +11,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text("Column and Row Layout"),
+          title: Text("Column and Row Layout Checking"),
           centerTitle: true,
-          backgroundColor: Colors.blueGrey,
+          backgroundColor: Colors.grey,
         ),
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
